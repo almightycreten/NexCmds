@@ -1,2 +1,3 @@
-# NexCmds
-![NexCmdLogo](https://github.com/almightycreten/NexCmds/blob/main/Assets/NexCmdBanner.png)
+# ![NexCmdLogo](https://github.com/almightycreten/NexCmds/blob/main/Assets/NexCmdBanner.png)
+## ![TrullzSecLib](https://img.shields.io/badge/TrullzSecLib-white) ![Undetectable](https://img.shields.io/badge/Undetectable-black?logo=roblox)
+# More Information coming soon...
